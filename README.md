@@ -18,7 +18,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/Devshimitsu/Convert_Text_To_Speech_in_Python.git
+$ git clone https://github.com/Devshimitsu/Send_Email_Using_Python.git
 ```
 
 - Change to cloned directory  -
