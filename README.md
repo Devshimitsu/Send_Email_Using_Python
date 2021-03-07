@@ -13,7 +13,7 @@
 <p align="center"></p>
 
 ### NOTE
-- Turn On Less Secure App :- https://myaccount.google.com/lesssecureapps -
+- Turn On Less Secure App :- https://myaccount.google.com/lesssecureapps 
 
 ### Installation For Linux
 
