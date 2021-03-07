@@ -12,7 +12,8 @@
 
 <p align="center"></p>
 
-<h1>NOTE</h1>Turn On Less Secure App :- https://myaccount.google.com/lesssecureapps
+### NOTE
+- Turn On Less Secure App :- https://myaccount.google.com/lesssecureapps -
 
 ### Installation For Linux
 
